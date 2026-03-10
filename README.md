@@ -1,5 +1,7 @@
 # My-First-Project
 
-Basic Roadmap to earn money
-1. Focus
-2. Target
+Daily Course Update
+
+Skills Learnt:
+1. Write a repo in github
+2. Host my own website on github
