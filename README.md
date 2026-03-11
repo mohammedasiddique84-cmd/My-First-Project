@@ -1,7 +1,14 @@
 # My-First-Project
 
-Daily Course Update
+# Internship Learning Journal
 
-Skills Learnt:
-1. Write a repo in github
-2. Host my own website on github
+This repository contains my daily learning updates and work progress
+during my internship program.
+
+## Purpose
+- To track daily learning
+- To document practical exposure
+- To maintain professional records
+
+## Structure
+- Each day has a separate markdown file
